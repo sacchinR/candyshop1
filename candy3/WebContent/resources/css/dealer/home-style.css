@@ -1,0 +1,15 @@
+
+
+.box{
+	width:250px;
+	height:200px;
+    outline:none;
+    box-shadow:0;
+    font-size:20px;
+    border-radius:5px;
+    color: black;
+   
+}
+.box:hover{
+    color:black;	
+}
